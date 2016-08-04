@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+            timestampString = "492004975.822006"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-testUserNameNoSpecialCharacters"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JSON_CollectionViewTests testUserNameNoSpecialCharacters]"
+                  moduleName = "JSON_CollectionViewTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anirudh/Desktop/JSON_CollectionView/JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+                  timestampString = "492006471.690846"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JSON_CollectionViewTests testUserNameNoSpecialCharacters]"
+                  moduleName = "JSON_CollectionViewTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anirudh/Desktop/JSON_CollectionView/JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+                  timestampString = "492006471.691009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JSON_CollectionViewTests testUserNameNoSpecialCharacters]"
+                  moduleName = "JSON_CollectionViewTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anirudh/Desktop/JSON_CollectionView/JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+                  timestampString = "492006471.691129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JSON_CollectionViewTests testUserNameNoSpecialCharacters]"
+                  moduleName = "JSON_CollectionViewTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anirudh/Desktop/JSON_CollectionView/JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+                  timestampString = "492006471.691235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JSON_CollectionViewTests testUserNameNoSpecialCharacters]"
+                  moduleName = "JSON_CollectionViewTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anirudh/Desktop/JSON_CollectionView/JSON_CollectionViewTests/JSON_CollectionViewTests.m"
+                  timestampString = "492006471.691318"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1034">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_CollectionView/ViewController.m"
+            timestampString = "492005099.064984"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-checkUserName:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
