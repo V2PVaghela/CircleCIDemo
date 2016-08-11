@@ -1,0 +1,8 @@
+deployment:
+  beta_distribution:
+    branch: master
+    commands:
+      - gym
+      - ipa distribute:hockeyapp
+          --token            "8d94087a960eae47ab389c4a3fee05c0"
+          --notes            "CircleCI build 1.0”
