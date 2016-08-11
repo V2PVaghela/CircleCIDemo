@@ -4,5 +4,5 @@ deployment:
     commands:
       - gym
       - ipa distribute:hockeyapp
-          --token            "8d94087a960eae47ab389c4a3fee05c0"
+          --token            "3063c351a48a4d7d90dbffb0092abfc5"
           --notes            "CircleCI build 1.0"
